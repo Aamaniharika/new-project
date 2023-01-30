@@ -1,2 +1,1 @@
-# new-project
-PYTHON GAME projects
+#PYTHON projects(web scrapping and games)
